@@ -1,38 +1,22 @@
 # HydroROC
 
-HydroROC es un complemento de QGIS orientado al análisis hidrológico y al procesamiento de cuencas.
+Complemento de QGIS para análisis hidrológico.
 
-## Herramientas disponibles
+## Versión 0.1.0
 
-Actualmente HydroROC incorpora tres algoritmos de Processing:
+Incluye inicialmente:
 
-1. **Delimitación automática de cuencas**
-2. **Parámetros I – Geometría, forma y relieve**
-3. **Parámetros II – Red de drenaje y tiempo de concentración**
+- Delimitación automática de cuencas.
+- Ajuste del punto de salida.
+- Recorte del DEM a la cuenca.
+- Generación de red de drenaje.
 
 ## Requisitos
 
-- QGIS 3.x
-- Dependencias y proveedores de procesamiento requeridos por los algoritmos incluidos.
-
-## Instalación
-
-Para pruebas locales, el complemento puede instalarse desde un archivo ZIP mediante:
-
-`Complementos > Administrar e instalar complementos > Instalar a partir de ZIP`
+- QGIS 3.28 o superior.
+- Proveedor GRASS disponible en QGIS.
+- DEM en un sistema de coordenadas proyectadas en metros, preferentemente UTM.
 
 ## Autor
 
-**Ing. Richard Oré Cayetano**
-
-## Código fuente
-
-Este repositorio contiene el código fuente de HydroROC.
-
-## Incidencias
-
-Los errores, sugerencias y solicitudes pueden registrarse en la sección **Issues** del repositorio.
-
-## Estado del proyecto
-
-HydroROC se encuentra en desarrollo activo. La versión actual del código es **0.4.2**.
+Ing. Richard Oré Cayetano
