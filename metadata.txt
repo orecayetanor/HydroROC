@@ -1,0 +1,18 @@
+[general]
+name=HydroROC
+qgisMinimumVersion=3.28
+description=Herramientas hidrológicas para QGIS: delimitación automática de cuencas, red de drenaje y análisis hidrológico.
+version=0.4.2
+author=Ing. Richard Oré Cayetano
+about=HydroROC integra herramientas para análisis de cuencas y otros procesos hidrológicos en QGIS. Esta versión incorpora Delimitación automática, Parámetros I (geometría, forma y relieve) y Parámetros II (red de drenaje y tiempos de concentración).
+category=Analysis
+experimental=True
+deprecated=False
+hasProcessingProvider=yes
+
+[experimental]
+icon=icon.png
+
+repository=https://github.com/orecayetanor/HydroROC
+tracker=https://github.com/orecayetanor/HydroROC/issues
+homepage=https://github.com/orecayetanor/HydroROC
