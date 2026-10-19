@@ -1,7 +1,8 @@
 # HydroROC
 **HydroROC** es un complemento para QGIS orientado al análisis hidrológico de cuencas y a la automatización de procedimientos de procesamiento hidrológico.
-**Donate via PayPal: https://www.paypal.com/ncp/payment/T4U45UF6XYEJ8
-## Versión 0.4.3
+### Donation to the development of HydroROC via PayPal: https://www.paypal.com/ncp/payment/T4U45UF6XYEJ8
+
+## Versión 0.4.4
 
 Esta versión incorpora tres herramientas en el proveedor de Processing de HydroROC:
 
